@@ -7,7 +7,7 @@
 //
 
 #import "DTHTMLWriter.h"
-#import "DTVersion.h"
+#import "DTFoundation/DTVersion.h"
 #import "NSDictionary+DTCoreText.h"
 #import "DTCSSListStyle.h"
 #import "DTCoreTextConstants.h"

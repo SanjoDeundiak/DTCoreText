@@ -7,7 +7,7 @@
 //
 
 #import "DTCoreTextFunctions.h"
-#import "DTLog.h"
+#import "DTFoundation/DTLog.h"
 
 #if TARGET_OS_IPHONE
 CTFontRef DTCTFontCreateWithUIFont(UIFont *font)

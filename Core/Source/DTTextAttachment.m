@@ -7,7 +7,7 @@
 //
 
 #import "DTTextAttachment.h"
-#import "DTCoreGraphicsUtils.h"
+#import "DTFoundation/DTCoreGraphicsUtils.h"
 #import "DTHTMLElement.h"
 #import "DTDictationPlaceholderTextAttachment.h"
 #import "DTIframeTextAttachment.h"

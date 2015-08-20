@@ -10,7 +10,7 @@
 
 #import "DTAttributedTextView.h"
 #import "DTCoreText.h"
-#import "DTBlockFunctions.h"
+#import "DTFoundation/DTBlockFunctions.h"
 
 #import <DTFoundation/DTTiledLayerWithoutFade.h>
 
